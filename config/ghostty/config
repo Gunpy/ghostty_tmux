@@ -1,0 +1,15 @@
+# fonts
+font-family = "JetBrainsMono Nerd Font"
+font-size = 13
+
+# cursor motion
+cursor-style = block
+cursor-style-blink = true
+
+# hot-keys for Ghostty (on top of tmux)
+keybind = cmd+shift+t=new_tab
+keybind = cmd+alt+left=previous_tab
+keybind = cmd+alt+right=next_tab
+
+# macOS: Option = Alt (Meta) for tmux (M-…)
+macos-option-as-alt = left
